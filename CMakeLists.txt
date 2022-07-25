@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(HelloWorld C)
+project(YEMUs C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(HelloWorld main.c)
+add_executable(YEMUs main.c)
